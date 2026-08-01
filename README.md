@@ -29,3 +29,7 @@ The model predicts a digit from 0 to 9.
 The model was trained and tested on the MNIST dataset.
 
 Test Accuracy : 99.15%
+
+## Prediction Example
+
+![Prediction](prediction.png)
