@@ -1,17 +1,17 @@
-# Handwritten Digit Recognition
+# ✍️ Handwritten Digit Recognition
 
 A simple CNN project for recognizing handwritten digits using the MNIST dataset.
 
-## Dataset
+## 📊 Dataset
 MNIST handwritten digit dataset.
 
-## Technologies Used
+## 🛠️ Technologies Used
 - Python
 - TensorFlow
 - Keras
 - Matplotlib
 
-## Model
+## 🧩 Model Architecture
 The project uses a Convolutional Neural Network (CNN) with:
 - Convolutional layers
 - Max Pooling layers
@@ -19,13 +19,13 @@ The project uses a Convolutional Neural Network (CNN) with:
 - Dense layers
 - Softmax output layer
 
-## Input
+## 📥 Input
 28 × 28 grayscale handwritten digit images.
 
-## Output
+## 📥 Output
 The model predicts a digit from 0 to 9.
 
-## Result
+## 📈 Result
 The model was trained and tested on the MNIST dataset.
 
-Test Accuracy : 99.15%
+🎯 Test Accuracy : 99.15%
